@@ -1,4 +1,6 @@
 
+/* test */
+
 import java.io.FileReader;
 
 public class EightBall {
