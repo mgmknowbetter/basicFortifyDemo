@@ -1,0 +1,33 @@
+
+# Step #1
+# Clean eightball translate area.  Remove all NST from eightball Fortify Temp Area.
+################################
+
+sourceanalyzer -b eightball -clean
+
+# Step #2 
+# Translate Source code into NST files for scanning
+################################
+
+ sourceanalyzer -b eightball -verbose /Users/zacharylewis/Demos/Samples/basic/eightball  /Users/zacharylewis/Demos/Samples/basic/php 
+
+# Step #3 
+# Verify all file that have been translated.
+# If the file is not listed in the show-files option than it will NOT be scanned.
+################################
+ sourceanalyzer -b eightball -show-files
+
+# Step #4 
+# Verify there are no major errors in the translate process.
+# NOTE: There may be warnings related to features that Fortify does not support 
+#       and these can be ignored.
+################################
+
+ sourceanalyzer -b eightball -show-build-warnings
+
+# Step #5 
+# Scan NST files using Fortify Rules and/or custom Rules
+################################
+
+ sourceanalyzer -b eightball -Xmx4000m -verbose -scan -f eightball.fpr
+

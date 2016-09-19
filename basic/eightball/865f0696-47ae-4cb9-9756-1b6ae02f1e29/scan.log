@@ -1,0 +1,161 @@
+[2016-07-26 20:42:34.735 Thread-12 Master INFO]
+HPE Security Fortify Static Code Analyzer 16.10.0095 (using JVM 1.8.0_72)
+[2016-07-26 20:42:34.737 Thread-12 Master INFO]
+Args:
+["-b", "eightball", "-f", "/Users/zacharylewis/Demos/Samples/basic/eightball/865f0696-47ae-4cb9-9756-1b6ae02f1e29/scan.fpr", "-logfile", "/Users/zacharylewis/Demos/Samples/basic/eightball/865f0696-47ae-4cb9-9756-1b6ae02f1e29/scan.log", "-scan"]
+[2016-07-26 20:42:34.738 Thread-12 Master INFO]
+VM Args:
+"-XX:SoftRefLRUPolicyMSPerMB=3000 -Xmx4000m -Xss16M -Xms300M"
+[2016-07-26 20:42:35.098 Thread-12 Master INFO]
+Front End complete
+[2016-07-26 20:42:35.306 Thread-12 Master INFO 1451]
+Analyzing 1 source file(s)
+[2016-07-26 20:42:35.669 Thread-12 Master INFO]
+License Metadata:
+  Created On: 2016-04-29 08:57:01.0
+  License Description: PreSales Demo for Hans 2016-10-28
+  License ID: L4fd97e50-3ea4-41ed-a486-9c8fc3151efc
+  Subscription ID: S8c4818a5-32e0-4c1d-bf04-1dad4245eb83
+  owner: Fortify Software
+[2016-07-26 20:42:35.868 Thread-12 Master INFO]
+Loading nametable with 1 compilation units
+[2016-07-26 20:42:36.108 Thread-15 Master INFO]
+Loaded nametable with 1 compilation units
+[2016-07-26 20:42:50.898 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/modelBFAA935D-5748-4936-96F1-E2D3E111133A-7835483292523407856.java
+[2016-07-26 20:42:51.827 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/modelD5C41682-F166-434D-B16F-ECE0D2E3854F-5837988897528561590.java
+[2016-07-26 20:42:52.441 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model5E0744FB-FF16-4CC1-8053-407F190C8E7E-1733051552948396422.java
+[2016-07-26 20:42:52.622 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/modelE9B5EBE5-01DB-4BA0-9CC6-E1D64B69C285-7021508821283376520.java
+[2016-07-26 20:42:53.014 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model12209589-EF75-4FDD-A751-D7F5FF89D21E-3329259102081631201.java
+[2016-07-26 20:42:53.130 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model3037DDE5-2284-46B6-B870-6779DE345E42-1732589781324361397.java
+[2016-07-26 20:42:53.411 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model36F9E63A-2083-4209-9F9D-C4B52CA294E7-8864289008559006486.java
+[2016-07-26 20:42:53.527 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model205D0E53-71B5-411A-BEC6-9369E1C1BED0-4834751975389906153.java
+[2016-07-26 20:42:53.667 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/modelA10312B6-373A-436C-92E5-1F421AFCEA2D-6607435160851528792.java
+[2016-07-26 20:42:53.912 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model518F2587-F34F-46F4-8B00-2009E250EFF0-5149755555147297650.java
+[2016-07-26 20:42:54.052 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model215FA4F2-5188-46CF-874E-1D2DEBE12B2F-3224630713876809425.java
+[2016-07-26 20:42:54.301 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model9643E6F4-41EC-413C-ACE7-015235B84BCD-1521576346274224048.java
+[2016-07-26 20:42:54.562 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/modelC9FE381E-967E-4D5B-B556-FC4AEB8D16B3-4136148770288391966.java
+[2016-07-26 20:42:54.724 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model69B4CC41-30E9-49AA-89A5-70B4158F4857-634024114144673788.java
+[2016-07-26 20:42:55.020 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/modelB2B0DC22-A452-4761-96A4-C8050CB8C2E7-2042952090898320784.java
+[2016-07-26 20:42:55.253 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model8709B335-9B95-4B92-B24A-CA068310AAF7-1088833710591974781.java
+[2016-07-26 20:42:55.558 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/modelE7E3726D-06A6-4012-BB08-E8517052A95C-2634800901417695500.java
+[2016-07-26 20:42:55.867 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model972A8812-D642-4178-9306-A69795886377-1235368041307838880.java
+[2016-07-26 20:42:56.128 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model92A12D90-BBF5-4D87-9D8A-97A8BB71BB1F-6220506303249177741.java
+[2016-07-26 20:42:56.353 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/modelBCEB6864-2F5D-49E8-87F3-1F3637BB8806-349643285379350353.java
+[2016-07-26 20:42:56.601 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/modelF4446E13-D08D-4068-B422-A7B24CB8E2F0-6938005059502031696.java
+[2016-07-26 20:42:56.867 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/modelAF3DAB99-A653-4F25-9DC6-1CD442663D08-2674432071327465259.java
+[2016-07-26 20:42:56.997 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/modelEE647292-FE17-4CB6-A215-058D02C3F6EF-2191295759414771279.java
+[2016-07-26 20:42:57.181 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/modelEF80D19A-B5B6-498A-928C-BC49A82B2A14-2901787747841292726.java
+[2016-07-26 20:42:57.395 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model25F2A89B-69ED-4954-8B34-3E0187F0519D-7081808560238578106.java
+[2016-07-26 20:42:57.518 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/modelDB798098-7DE0-41C3-B12A-FF1DC65FD0B0-5918713190425615904.java
+[2016-07-26 20:42:57.725 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/modelBB7565AC-0F31-48C2-B24E-80FAF7877394-8993859641302806040.java
+[2016-07-26 20:42:57.870 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/modelB1D6F983-594E-4F3E-9DCE-7221DBF29BB6-5114092482366777992.java
+[2016-07-26 20:42:58.157 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model1FAE01B7-2597-47BA-9A7C-7DBBBBE72E07-3399217387702167990.java
+[2016-07-26 20:42:58.354 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/modelA0A49486-134D-4FCD-8D7B-E9BC3DB77BDD-1591166585951593950.java
+[2016-07-26 20:42:58.545 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/modelC8B76E57-7161-4632-B49F-BA3FA7B912DD-952057261211211561.java
+[2016-07-26 20:42:58.689 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model76A1DCD5-516E-450F-B0FB-8C69D575D8F2-4346696826413513157.java
+[2016-07-26 20:42:58.824 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/modelA8861637-8409-4FBE-A5F2-F2A88D774587-860736742675501047.java
+[2016-07-26 20:42:58.932 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model55BF8C32-74F5-4EED-A574-89BF2DB677FD-570903812712578853.java
+[2016-07-26 20:42:59.140 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model458548B7-3DBD-46CB-929D-FDC77BC4ECC7-6024608431654250090.java
+[2016-07-26 20:42:59.346 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model840BEAAF-6B88-4004-BA61-783BBC3C1456-4609321596330913965.java
+[2016-07-26 20:42:59.446 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model7C0CC67E-253A-4440-8B3D-2082DD9CAAFD-4548790281652000144.java
+[2016-07-26 20:42:59.692 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/modelCA71034A-318B-4E4B-B8C0-A27C8A81E2E4-5360544524153781337.java
+[2016-07-26 20:42:59.894 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model34ED540A-2BE0-4F16-ABBD-4544E05B6A8E-6090737938455227281.java
+[2016-07-26 20:43:00.101 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model0B9A5FF9-0759-47EC-BBB3-887656E7956B-6417822663222697672.java
+[2016-07-26 20:43:00.288 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model0B71BB80-441A-4947-9369-2AA8E2C0864B-8690914045999507053.java
+[2016-07-26 20:43:00.498 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/model43CECA57-45C1-4304-9664-1FDB0328ACE5-1853883004402724315.java
+[2016-07-26 20:43:00.618 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/modelCEF66F9E-2E1C-4C59-B302-D77BDB3330A6-8667014846193173498.java
+[2016-07-26 20:43:00.830 Thread-12 Master INFO 1450]
+Processing /Users/zacharylewis/.fortify/sca16.1/build/eightball/modelB1A52E29-F42F-4E2D-A333-0B206A075679-5572386992959590929.java
+[2016-07-26 20:43:01.005 Thread-12 Master INFO]
+Phase Zero Work: starting 45 tasks
+[2016-07-26 20:43:01.509 Thread-29 Master INFO]
+Phase Zero Work: completed 12 tasks
+[2016-07-26 20:43:01.624 Thread-29 Master INFO]
+Phase Zero Work: completed 23 tasks
+[2016-07-26 20:43:01.739 Thread-32 Master INFO]
+Phase Zero Work: completed 34 tasks
+[2016-07-26 20:43:01.844 Thread-31 Master INFO]
+Phase Zero Work: completed 45 tasks
+[2016-07-26 20:43:01.845 Thread-12 Master INFO]
+Completing call graph
+[2016-07-26 20:43:03.251 Thread-12 Master INFO]
+Constant Propagation: starting initialization of 45 compilation units
+[2016-07-26 20:43:03.263 Thread-43 Master INFO]
+Constant Propagation: initialized 12 compilation units
+[2016-07-26 20:43:03.265 Thread-43 Master INFO]
+Constant Propagation: initialized 23 compilation units
+[2016-07-26 20:43:03.268 Thread-42 Master INFO]
+Constant Propagation: initialized 34 compilation units
+[2016-07-26 20:43:03.269 Thread-44 Master INFO]
+Constant Propagation: initialized 45 compilation units
+[2016-07-26 20:43:03.271 Thread-12 Master INFO]
+Constant Propagation: generating worklist for 135 functions
+[2016-07-26 20:43:03.271 Thread-12 Master INFO]
+Constant Propagation: initial constants for 135 functions
+[2016-07-26 20:43:03.282 Thread-12 Master INFO]
+Constant Propagation: propagating constant parameters for 135 functions
+[2016-07-26 20:43:03.290 Thread-12 Master INFO]
+Constant Propagation: propagating unresolved constants for 135 functions
+[2016-07-26 20:43:03.346 Thread-12 Master INFO]
+Constant Propagation: completed
+[2016-07-26 20:43:03.611 Thread-12 Master INFO 1455]
+Configuration analysis complete
+[2016-07-26 20:43:09.137 Thread-12 Master INFO 1464]
+Buffer analysis complete
+[2016-07-26 20:43:09.137 Thread-12 Master INFO 1454]
+Semantic analysis complete
+[2016-07-26 20:43:09.213 Thread-12 Master INFO 1452]
+Data Flow analysis complete
+[2016-07-26 20:43:09.218 Thread-12 Master INFO 1453]
+Control Flow analysis complete
+[2016-07-26 20:43:09.247 Thread-12 Master INFO 1462]
+Structural analysis complete
+[2016-07-26 20:43:09.248 Thread-12 Master INFO 1466]
+Null pointer analysis complete
+[2016-07-26 20:43:09.454 Thread-12 Master INFO 1458]
+Rendering 7 results
+[2016-07-26 20:43:18.607 Thread-12 Master INFO 1459]
+Analysis completed in 00:34
